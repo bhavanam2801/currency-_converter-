@@ -15,6 +15,6 @@ You can deploy it using GitHub Pages or Netlify for a live demo.
 ## 🛠️ Tech Stack
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript
 
 ## 📁 Folder Structure
